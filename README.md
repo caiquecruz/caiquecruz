@@ -1,4 +1,4 @@
-## Hi, I am Caíque Cruz and currently I code things with <img align="center" alt="flutter" height="100" width="100" src="https://user-images.githubusercontent.com/31424646/156232555-06e56a49-4495-499a-ace3-882f8b55c0a1.svg">
+## Hi, I am Caíque Cruz and currently I code things with Flutter <img align="center" alt="flutter" height="50" width="50" src="https://user-images.githubusercontent.com/31424646/156237327-97055ac5-5f3a-4ceb-aabb-fa60f93627f5.svg">
 
 <div> 
   <a href = "mailto:kaiquecruz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
