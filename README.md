@@ -39,6 +39,18 @@ Secure Storage | Crypto Implementations | Firebase Suite
 - Developed financial systems with Angular 2+/Ionic
 - Created banking portals with RxJS and state management
 
+# 🎓 Education
+
+### 🏛️ Universidade Cruzeiro do Sul
+**Bachelor of Computer Science**  
+📅 _2012 - 2016_ | São Paulo, Brazil  
+- Comprehensive foundation in software development and computer systems
+
+### 🏫 Colégio Cruzeiro do Sul  
+**Technical Degree in Information Technology**  
+📅 _2009 - 2011_ | São Paulo, Brazil  
+- Early specialization in IT and programming fundamentals
+
 ## 🌐 Languages
 🇧🇷 Portuguese (Native) | 🇺🇸 English (Advanced/Professional)
 
