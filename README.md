@@ -1,7 +1,49 @@
-## Hi, I am Caíque Cruz and currently I code things with Flutter <img align="center" alt="flutter" height="50" width="50" src="https://user-images.githubusercontent.com/31424646/156237327-97055ac5-5f3a-4ceb-aabb-fa60f93627f5.svg">
+# Caíque Cruz 👨‍💻 <a href="https://www.linkedin.com/in/ca%C3%ADque-cruz-6b559b98/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:kaiquecruz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
+<img align="right" alt="flutter" height="150" src="https://user-images.githubusercontent.com/31424646/156237327-97055ac5-5f3a-4ceb-aabb-fa60f93627f5.svg">
+
+### Senior Mobile Engineer @ NGRAVE | Flutter Expert | Cross-Platform Specialist
+*📍 São Paulo, Brazil | 7+ years mobile development*
+
+I specialize in building secure, high-performance cross-platform applications with Flutter and React Native. Currently developing crypto wallet solutions at NGRAVE with a focus on security and seamless user experiences.
+
+## 🛠️ Technical Arsenal
+
+**Mobile Development**  
+[![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=flat&logo=flutter)](https://flutter.dev/)
+[![React Native](https://img.shields.io/badge/React_Native-Advanced-61DAFB?style=flat&logo=react)](https://reactnative.dev/)
+[![Dart](https://img.shields.io/badge/Dart-Expert-0175C2?style=flat&logo=dart)](https://dart.dev/)
+
+**Architecture & State**  
+BLoC | Cubit | MVCS | Clean Architecture | GetIt | RxJS | Redux
+
+**Security & Storage**  
+Secure Storage | Crypto Implementations | Firebase Suite
+
+## 💼 Professional Journey
+
+### 🔐 NGRAVE (2023-Present)
+**Senior Mobile Engineer**  
+- Developed secure crypto hot wallet app using Flutter (BLoC, Cubit, GetIt)
+- Implemented security-critical features for digital asset management
+- Maintained React Native codebase for LIQUID app
+
+### 💳 Avenue Securities (2020-2023)
+**Mobile Software Engineer**  
+- Built Flutter features serving 200k+ users
+- Implemented Clean Architecture with comprehensive testing suite
+- Managed CI/CD pipelines and app store deployments
+
+### 🏦 Diebold Nixdorf (2017-2020)
+**Front-end Developer**  
+- Developed financial systems with Angular 2+/Ionic
+- Created banking portals with RxJS and state management
+
+## 🌐 Languages
+🇧🇷 Portuguese (Native) | 🇺🇸 English (Advanced/Professional)
+
+## 📬 Let's Connect
 <div> 
-  <a href = "mailto:kaiquecruz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ca%C3%ADque-cruz-6b559b98/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+  <a href="mailto:kaiquecruz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ca%C3%ADque-cruz-6b559b98/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
