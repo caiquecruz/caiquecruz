@@ -5,14 +5,16 @@
 ### Senior Mobile Engineer @ NGRAVE | Flutter Expert | Cross-Platform Specialist
 *📍 São Paulo, Brazil | 7+ years mobile development*
 
-I specialize in building secure, high-performance cross-platform applications with Flutter and React Native. Currently developing crypto wallet solutions at NGRAVE with a focus on security and seamless user experiences.
+I’ve been working in IT for the past 10 years, with the last 7 years focused as a Mobile/Front-end Engineer. I have 5 years of hands-on experience with Flutter, alongside strong expertise in React Native building high-quality cross-platform applications and delivering impactful user experiences.
+
+Currently developing crypto wallet solutions at NGRAVE with a focus on security and seamless user experiences.
 
 ## 🛠️ Technical Arsenal
 
 **Mobile Development**  
 [![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=flat&logo=flutter)](https://flutter.dev/)
-[![React Native](https://img.shields.io/badge/React_Native-Advanced-61DAFB?style=flat&logo=react)](https://reactnative.dev/)
 [![Dart](https://img.shields.io/badge/Dart-Expert-0175C2?style=flat&logo=dart)](https://dart.dev/)
+[![React Native](https://img.shields.io/badge/React_Native-Advanced-61DAFB?style=flat&logo=react)](https://reactnative.dev/)
 
 **Architecture & State**  
 BLoC | Cubit | MVCS | Clean Architecture | GetIt | RxJS | Redux
