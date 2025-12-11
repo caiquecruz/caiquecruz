@@ -2,7 +2,7 @@
 
 <img align="right" alt="flutter" height="150" src="https://user-images.githubusercontent.com/31424646/156237327-97055ac5-5f3a-4ceb-aabb-fa60f93627f5.svg">
 
-### Senior Mobile Engineer @ NGRAVE | Flutter Expert | Cross-Platform Specialist
+### Senior Mobile Engineer @ Flutter | React Native | Cross-Platform
 *📍 São Paulo, Brazil | 7+ years mobile development*
 
 I’ve been working in IT for the past 10 years, with the last 7 years focused as a Mobile/Front-end Engineer. I have 5 years of hands-on experience with Flutter, alongside strong expertise in React Native building high-quality cross-platform applications and delivering impactful user experiences.
@@ -12,12 +12,15 @@ Currently developing crypto wallet solutions at NGRAVE with a focus on security 
 ## 🛠️ Technical Arsenal
 
 **Mobile Development**  
-[![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=flat&logo=flutter)](https://flutter.dev/)
-[![Dart](https://img.shields.io/badge/Dart-Expert-0175C2?style=flat&logo=dart)](https://dart.dev/)
+[![Flutter](https://img.shields.io/badge/Flutter-Advanced-02569B?style=flat&logo=flutter)](https://flutter.dev/)
+[![Dart](https://img.shields.io/badge/Dart-Advanced-0175C2?style=flat&logo=dart)](https://dart.dev/)
 [![React Native](https://img.shields.io/badge/React_Native-Advanced-61DAFB?style=flat&logo=react)](https://reactnative.dev/)
 
 **Architecture & State**  
-BLoC | Cubit | MVCS | Clean Architecture | GetIt | RxJS | Redux
+BLoC | Cubit | Riverpod | MVC | Clean Architecture | GetIt | RxJS | Redux
+
+**Testing**  
+Unit / Widget / Integration testing (Mocktail | Flutter test)
 
 **Security & Storage**  
 Secure Storage | Crypto Implementations | Firebase Suite
