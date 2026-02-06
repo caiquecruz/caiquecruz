@@ -27,7 +27,10 @@ Secure Storage | Crypto Implementations | Firebase Suite
 
 ## 💼 Professional Journey
 
-### 🔐 NGRAVE (2023-Present)
+### Scoop (2026-Present)
+**Flutter Developer | Consultant**  
+
+### 🔐 NGRAVE (2023-2025)
 **Senior Mobile Engineer**  
 - Developed secure crypto hot wallet app using Flutter (BLoC, Cubit, GetIt)
 - Implemented security-critical features for digital asset management
